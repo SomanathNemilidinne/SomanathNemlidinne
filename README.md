@@ -1,5 +1,5 @@
 # Hi there 👋:
-I'm currently working on Python and Web development projects<br>I'm looking to collaborate on CS50 problem sets<br>I'm looking for a mentor to guide through my projects so that i can gain some real world experience<br>I'm currently learning C, C++<br>Fun Fact: The first computer virus, Creeper, was developed in 1971 and circulated on ARPANET.
+I'm currently working on Python and Web development projects<br>I'm looking to collaborate on CS50 problem sets<br>I'm looking for a mentor to guide through my projects so that i can gain some real world experience<br>I'm currently learning C, C++<br>You can check out my project repositeries and contribute some ideas<br>Fun Fact: The first computer virus, Creeper, was developed in 1971 and circulated on ARPANET.
 
 
 ## 🌐 Socials:
